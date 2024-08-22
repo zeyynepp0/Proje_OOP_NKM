@@ -1,0 +1,37 @@
+﻿@model EntityLayer.Concrete.Product
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2 class="text-center">Ürün Ekle</h2>
+
+            <form method="post">
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Name, "Ürün Adı", new { @class = "form-label" })
+                    @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Ürün Adı" })
+                    @Html.ValidationMessageFor(x => x.Name, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Price, "Ürün Fiyatı", new { @class = "form-label" })
+                    @Html.TextBoxFor(x => x.Price, new { @class = "form-control", placeholder = "Ürün Fiyatı" })
+                    @Html.ValidationMessageFor(x => x.Price, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Stock, "Ürün Stok Sayısı", new { @class = "form - label" })
+                    @Html.TextBoxFor(x => x.Stock, new { @class = "form-control", placeholder = "Ürün Stok Sayısı" })
+                    @Html.ValidationMessageFor(x => x.Stock, "", new { @class = "text-danger" })
+                </div>
+                <br/>
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary">Ürün Ekle</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

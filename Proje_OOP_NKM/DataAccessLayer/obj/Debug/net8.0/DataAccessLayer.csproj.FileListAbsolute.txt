@@ -1,0 +1,51 @@
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

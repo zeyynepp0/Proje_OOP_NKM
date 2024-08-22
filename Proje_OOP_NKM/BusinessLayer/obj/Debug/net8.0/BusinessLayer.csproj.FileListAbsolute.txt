@@ -1,0 +1,51 @@
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

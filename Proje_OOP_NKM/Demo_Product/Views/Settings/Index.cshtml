@@ -1,0 +1,53 @@
+﻿@model Demo_Product.Models.UserEditViewModel
+@{
+    ViewData["Title"] = "Profil Bilgilerini Düzenleme";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Profil Bilgilerini Düzenleme Sayfası</h1>
+    <form method="post" class="mt-4">
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, "Adınız", new { @class = "control-label" })
+            <input type="text" asp-for="Name" class="form-control" placeholder="Adınızı girin" />
+            @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group mt-3">
+            @Html.LabelFor(m => m.SurName, "Soyadınız", new { @class = "control-label" })
+            <input type="text" asp-for="SurName" class="form-control" placeholder="Soyadınızı girin" />
+            @Html.ValidationMessageFor(m => m.SurName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group mt-3">
+            @Html.LabelFor(m => m.Mail, "Mail Adresiniz", new { @class = "control-label" })
+            <input type="email" asp-for="Mail" class="form-control" placeholder="Mail adresinizi girin" />
+            @Html.ValidationMessageFor(m => m.Mail, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group mt-3">
+            @Html.LabelFor(m => m.Gender, "Cinsiyetiniz", new { @class = "control-label" })
+            <select asp-for="Gender" class="form-control">
+                <option value="">Cinsiyet Seçin</option>
+                <option value="Male">Erkek</option>
+                <option value="Female">Kadın</option>
+                <option value="Other">Diğer</option>
+            </select>
+            @Html.ValidationMessageFor(m => m.Gender, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group mt-3">
+            @Html.LabelFor(m => m.Password, "Şifre", new { @class = "control-label" })
+            <input type="password" asp-for="Password" class="form-control" placeholder="Şifrenizi girin" />
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group mt-3">
+            @Html.LabelFor(m => m.ConfirmPassword, "Şifre Tekrar", new { @class = "control-label" })
+            <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Şifrenizi tekrar girin" />
+            @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+        </div>
+
+        <button type="submit" class="btn btn-warning mt-4">Değişiklikleri Kaydet</button>
+    </form>
+</div>

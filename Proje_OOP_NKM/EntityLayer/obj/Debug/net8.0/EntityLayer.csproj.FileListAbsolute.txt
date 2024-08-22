@@ -1,0 +1,36 @@
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\2024 Yazılım Geliştirici Yetiştirme\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\zeyne\Desktop\Projeler\Proje_OOP_NKM\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll

@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<Partial name="~/views/partials/partial_header.cshtml"/>
+<body>
+<Partial name="~/views/partials/Partial_Navbar.cshtml" />
+    <div id="layoutSidenav">
+<Partial name="~/views/partials/Partial_Sidebar.cshtml" />
+        <div id="layoutSidenav_content">
+            <main>
+                <div class="container-fluid px-4">
+                    <h1 class="mt-4"></h1>
+                    
+                    @RenderBody()
+                </div>
+            </main>
+            <Partial name="~/views/partials/Partial_Footer.cshtml" />
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="~/startbootstrap-sb-admin-gh-pages/js/scripts.js"></script>
+</body>
+</html>
+@RenderBody()
